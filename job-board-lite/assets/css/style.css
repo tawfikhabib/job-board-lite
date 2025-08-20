@@ -1,0 +1,6 @@
+.jbl-jobs { display: grid; gap: 12px; }
+.jbl-job { border: 1px solid #e5e7eb; padding: 12px; border-radius: 8px; }
+.jbl-meta { color: #6b7280; font-size: 13px; }
+.jbl-form label { display:block; margin:8px 0 4px; }
+.jbl-form input, .jbl-form select, .jbl-form textarea { width:100%; padding:8px; }
+.jbl-badge { display:inline-block; padding:2px 8px; border-radius:999px; background:#f3f4f6; font-size:12px; }
