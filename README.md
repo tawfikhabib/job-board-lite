@@ -92,7 +92,7 @@ phpcs --standard=WordPress --ignore=vendor ./
 ---
 
 ## 📜 License
-GPL‑2.0‑or‑later — Free to use, modify, and distribute.
+MIT — Free to use, modify, and distribute.
 
 ---
 
