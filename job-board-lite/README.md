@@ -99,4 +99,4 @@ GPL‑2.0‑or‑later — Free to use, modify, and distribute.
 ## 👨‍💻 Author
 **Tawfik Habib**  
 Senior Software Engineer – PHP, Laravel, Vue.js, WordPress  
-📫 [Email](mailto:twfkhabib@gmail.com) • 🌐 [Portfolio](https://your-portfolio.com)
+📫 [Email](mailto:twfkhabib1@gmail.com) 
